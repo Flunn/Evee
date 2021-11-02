@@ -1,6 +1,6 @@
 function preload(){
   //teapot=loadModel("https://raw.githubusercontent.com/processing/p5.js/main/test/manual-test-examples/webgl/assets/teapot-ascii.stl",true);
-  teapot=loadModel("evee_lowpoly_flowalistik.STL",true);
+  teapot=loadModel("eevee_lowpoly_flowalistik.STL",true);
 }
 
 function setup() {
